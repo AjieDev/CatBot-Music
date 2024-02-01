@@ -6,9 +6,6 @@
   "scripts": {
     "start": "npx node index.js"
   },
-  "engines": {
-    "node": "16.x"
-  },
   "keywords": [
     "lavalink",
     "erela",
